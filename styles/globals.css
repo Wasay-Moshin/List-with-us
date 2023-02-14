@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-listwithus{
+  background-image: url("../Media/Rectangle\ 947.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
