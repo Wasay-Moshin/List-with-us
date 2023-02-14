@@ -3,7 +3,7 @@ import React from "react";
 function Likenoothers() {
   return (
     <div className="bg-black">
-      <div className="flex items-center justify-center flex-col h-screen pt-12">
+      <div className="flex items-center justify-center flex-col h-screen pt-16">
         <div>
         <img src="assets/listwithus/Group 4812.png" alt="" width={170} />
         </div>
@@ -21,7 +21,7 @@ function Likenoothers() {
         <div>
         <img src="assets/listwithus/Group 4811.png" alt="" width={170} />
         </div>
-        <div className="pt-40">
+        <div className="pt-40 pb-11">
           <img src="assets/listwithus/Path 273156.png" alt="" width={40} />
         </div>
       </div>
