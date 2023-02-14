@@ -45,7 +45,7 @@ function Listwithus() {
       <div className="grid lg:grid-cols-3 pt-8 pb-4">
         <img src="assets/listwithus/Group 3285.png" alt=""  width={120}/>
         <div className="flex justify-center items-center ">
-        <img  src="assets/listwithus/Path 27340.png" alt=""  width={30}/>
+        <img  className="md:block hidden" src="assets/listwithus/Path 27340.png" alt=""  width={30}/>
         </div>
         <div className="flex justify-end items-baseline">
         <p className="text-black text-sm uppercase tracking-wider">CREATE YOUR PRO ID ACCOUNT </p>
